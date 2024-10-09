@@ -1,1 +1,3 @@
-# My New Project
+# Text Editor
+
+Implemented a editor like Vim in C.
